@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, WAJDAN !");
+
+            Console.WriteLine("ENTER YOUR NAME !");
+            int firstName = Console.Read();
+
         }
     }
 }
